@@ -1,1 +1,1 @@
-git@github.com:Itokna/Tiendalibreapp.git
+git@github.com:Israkna/Tiendalibreapp.git
